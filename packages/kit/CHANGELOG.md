@@ -1,5 +1,12 @@
 # @sveltejs/kit
 
+## 1.0.0-next.78
+
+### Patch Changes
+
+- 148819a: Use latest vite-plugin-svelte
+- 9d54eed: Make sveltekit:prefetch a noop if <a> has no href
+
 ## 1.0.0-next.77
 
 ### Patch Changes

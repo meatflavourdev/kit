@@ -16,6 +16,6 @@
 	},
 	"dependencies": {
 		"cookie": "^0.4.1",
-		"node-fetch": "^2.6.1"
+		"node-fetch": "^3.2.10"
 	}
 }
